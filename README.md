@@ -1,4 +1,4 @@
-# Newton Binomial Calculator (NebinoC)
+# Newton Binomial Calculator (NbinC)
 
 NbinC is a newton binomial calculator allows you to calculate Newton's binomial. This Tool Still in development!
 

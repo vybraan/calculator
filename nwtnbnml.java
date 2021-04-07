@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class binomial
+public class nwtnbnml
 {
 	static int factorial(int n)
 	{

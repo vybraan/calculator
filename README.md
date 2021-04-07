@@ -1,6 +1,6 @@
 # Newton Binomial Calculator (NbinC)
 
-NbinC is a newton binomial calculator allows you to calculate Newton's binomial. This Tool Still in development!
+NbinC is a newton binomial calculator that allows you to calculate Newton's binomial very fast. This Tool Still in development!
 
 ## Installation
 There's no need of installation but you must have java-sdk to compile it.

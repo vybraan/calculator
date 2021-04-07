@@ -3,8 +3,8 @@
 NbinC is a newton binomial calculator allows you to calculate Newton's binomial. This Tool Still in development!
 
 ## Installation
-There's no need of instllation but you must have java sdk.
-to have it on debian based is
+There's no need of installation but you must have java-sdk to compile it.
+to install it on debian based is
 ```bash
 sudo apt install openjdk-8-jre
 ```

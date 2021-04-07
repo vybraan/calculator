@@ -6,13 +6,13 @@ NbinC is a newton binomial calculator that allows you to calculate Newton's bino
 There's no need of installation but you must have java-sdk to compile it.
 to install it on debian based is
 ```bash
-sudo apt install openjdk-8-jre
+$ sudo apt install openjdk-8-jre
 ```
 
 ## Usage
 ```bash
-javac nwtnbnml.java
-java nwtnbnml
+$ javac nwtnbnml.java
+$ java nwtnbnml
 ```
 
 ## Contributing

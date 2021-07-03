@@ -7,7 +7,7 @@ There's no need of installation but you must have jdk to compile it.
 to install it on debian based is
 ```bash
 $ sudo apt install openjdk-8-jure # on debian based 
-# sudo pacman -Sy jdk-openjdk
+$ sudo pacman -Sy jdk-openjdk # on arch based 
 ```
 
 ## Usage

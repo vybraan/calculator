@@ -16,7 +16,7 @@ $ javac nwtnbnml.java
 $ java nwtnbnml
 ```
 ## Examples
-	![Exemple of the execution of the calculator](https://github.com/AiltonBauque/NbinC/src/exemple.png)
+	![Exemple of the execution of the calculator](https://github.com/AiltonBauque/NbinC/src/example.png)
 
 
 ## Contributing

@@ -15,6 +15,9 @@ $ sudo pacman -Sy jdk-openjdk # on arch based
 $ javac nwtnbnml.java
 $ java nwtnbnml
 ```
+## Examples
+	![Exemple of the execution of the calculator](https://github.com/AiltonBauque/NbinC/src/exemple.png)
+
 
 ## Contributing
 Pull requests are welcome. For major chages, please open an issue to discuss what and which kind of to changes you want to perform.

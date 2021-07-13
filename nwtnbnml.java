@@ -127,7 +127,7 @@ public class nwtnbnml
 
 				if (i == n)
 				{
-					System.out.print(ii);
+					System.out.println(ii);
 				}
 			}
 			j--;

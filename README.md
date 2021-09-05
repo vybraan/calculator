@@ -11,11 +11,13 @@ $ sudo pacman -Syu jdk-openjdk # on arch based
 ```
 ## Usage
 ```bash
+$ git clone https://github.com/vybraan/calculator.git
+$ cd calculator
+```
+
+```bash
 $ javac nwtnbnml.java
 $ java nwtnbnml
-```
-```bash
-$ git clone https://github.com/vybraan/calculator.git
 ```
 ## Examples
 ![Exemple of the execution of the calculator](https://raw.githubusercontent.com/vybraan/calculator/main/src/example.png)

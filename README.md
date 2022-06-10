@@ -24,6 +24,6 @@ $ java nwtnbnml
 
 
 ## Contributing
-Pull requests are welcome. For major chages, please open an issue to discuss what and which kind of to changes you want to perform.
+Pull requests are welcome. For major changes, please open an issue to discuss what and which kind of to changes you want to perform.
 
 Lets make math easy...
